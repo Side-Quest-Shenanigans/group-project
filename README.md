@@ -1,4 +1,4 @@
-# Group Project (Name to be Decided)
+# Pixal Pod
 
 ## Description  
 
