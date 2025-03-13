@@ -1,4 +1,4 @@
-# Pixal Pod
+# Pixel Pod
 
 ## Description  
 
