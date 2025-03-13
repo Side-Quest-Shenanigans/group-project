@@ -37,7 +37,7 @@ We are still in the early stages of discussing different themes and finalising h
 - Host the project with Vercel.  
 - Create the homepage.  
 - Fetch data from an API with accurate game information and display it in the correct format on the homepage.  
-- Develop a category page with filters to organize and display games based on user preferences.  
+- Develop a category page with filters to organise and display games based on user preferences.  
 
 ## MVP 2  
 
@@ -53,3 +53,4 @@ We are still in the early stages of discussing different themes and finalising h
 - Develop a forum or discussion board where users can interact, ask for advice, and share gaming experiences.  
 - Introduce a "Wishlist" feature where users can save games they want to play in the future.  
 - Enable game developers to add accessibility information directly to the platform.  
+- Host on AWS using Docker containers.  
